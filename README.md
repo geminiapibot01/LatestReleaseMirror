@@ -157,5 +157,51 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayng"></div>
 
+### 2dust--v2rayNG
+
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.7</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.7)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.1.7_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/geminiapibot01/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_arm64-v8a.apk) |
+
+---
+
+<div id="dyhkwong--exclave"></div>
+
+### dyhkwong--Exclave
+
+🔗 [source](https://github.com/dyhkwong/Exclave) – [<code><small>0.17.39</small></code>](https://github.com/dyhkwong/Exclave/releases/tag/0.17.39)
+
+| File | Size | Download |
+|------|------|----------|
+| `Exclave-0.17.39-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/geminiapibot01/LatestReleaseMirror/main/releases/dyhkwong/Exclave/Exclave-0.17.39-arm64-v8a.apk) |
+
+---
+
+<div id="guardianproject--orbot-android"></div>
+
+### guardianproject--orbot-android
+
+🔗 [source](https://github.com/guardianproject/orbot-android) – [<code><small>17.9.4-BETA-1-tor-0.4.9.6.2</small></code>](https://github.com/guardianproject/orbot-android/releases/tag/17.9.4-BETA-1-tor-0.4.9.6.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `Orbot-17.9.4-BETA-1-tor-0.4.9.6.2-1-g84015e0a4-fullperm-arm64-v8a-release.apk` | 50.8 MB | [⬇️ Download](https://raw.githubusercontent.com/geminiapibot01/LatestReleaseMirror/main/releases/guardianproject/orbot-android/Orbot-17.9.4-BETA-1-tor-0.4.9.6.2-1-g84015e0a4-fullperm-arm64-v8a-release.apk) |
+| `Orbot-17.9.4-BETA-1-tor-0.4.9.6.2-1-g84015e0a4-fullperm-arm64-v8a-release.apk.asc` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/geminiapibot01/LatestReleaseMirror/main/releases/guardianproject/orbot-android/Orbot-17.9.4-BETA-1-tor-0.4.9.6.2-1-g84015e0a4-fullperm-arm64-v8a-release.apk.asc) |
+
+---
+
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
+
+### therealaleph--MasterHttpRelayVPN-RUST
+
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.22</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.22)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrv-rs-android-arm64-v8a-v1.9.22.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/geminiapibot01/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.22.apk) |
+| `mhrv-rs-windows-amd64.zip` | 7.4 MB | [⬇️ Download](https://raw.githubusercontent.com/geminiapibot01/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
