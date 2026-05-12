@@ -1,5 +1,5 @@
-# See 'repos.txt.example' file
-
-# Format: owner/repo|filter1|filter2|...
-# Filters are case‑insensitive regular expressions (grep -E).
-
+therealaleph/MasterHttpRelayVPN-RUST|mhrv-rs-android-arm64-v8a-v1.9.22.apk|mhrv-rs-windows-amd64.zip
+2dust/v2rayNG|v2rayNG_2.1.7_arm64-v8a.apk
+KaringX/karing|karing_1.2.19.2203_android_arm64-v8a.apk
+guardianproject/orbot-android|Orbot-17.9.4-BETA-1-tor-0.4.9.6.2-1-g84015e0a4-fullperm-arm64-v8a-release.apk
+dyhkwong/Exclave|Exclave-0.17.39-arm64-v8a.apk
